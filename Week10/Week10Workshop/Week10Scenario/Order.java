@@ -1,4 +1,4 @@
-package Week10.Week10Workshop;
+package Week10.Week10Workshop.Week10Scenario;
 
 
 /**

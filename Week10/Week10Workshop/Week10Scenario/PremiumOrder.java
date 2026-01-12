@@ -1,15 +1,15 @@
-package Week10.Week10Workshop;
+package Week10.Week10Workshop.Week10Scenario;
 
 
 /**
- * Write a description of class NormalOrder here.
+ * Write a description of class PremiumOrder here.
  *
  * @author (your name)
  * @version (a version number or a date)
  */
-public class NormalOrder extends Order
+public class PremiumOrder extends Order
 {
-    public NormalOrder(int OrderID, String customerName, double amount)
+    public PremiumOrder(int OrderID, String customerName, double amount)
     {
         super(OrderID, customerName, amount);
     }
